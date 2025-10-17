@@ -1,6 +1,0 @@
-John Doe
-Experience: 
-- 4 years of experience in Python and machine learning.
-- Worked with AWS and Google Cloud for 2 years.
-- Solid understanding of algorithms and data structures.
-

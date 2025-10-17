@@ -1,6 +1,0 @@
-Jane Smith
-Experience: 
-- 2 years in Python development.
-- Familiar with cloud platforms like AWS.
-- Strong problem-solving skills.
-
