@@ -7,7 +7,7 @@ from google.generativeai import configure, GenerativeModel
 logging.getLogger('google').setLevel(logging.CRITICAL)
 
 # Configure your Gemini API key
-configure(api_key="AIzaSyD9jaIE0s-PMhwLAt7MfVdFr-WC4Kcv0pE")  # Replace with your API key
+configure(api_key="YOUR-API-KEY")  # Replace with your API key
 
 # Function to load text from a file
 def load_text(file_path):
