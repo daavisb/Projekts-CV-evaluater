@@ -1,21 +1,20 @@
-**Uzdevums:** Salīdzini sekojošo darba aprakstu ar kandidāta CV un sniedz atbildi JSON formātā.
+Job Description:
+Darba apraksts:
+Mēs meklējam programmatūras inženieri ar ekspertīzi Python, mašīnmācīšanās un mākoņtehnoloģijās. Kandidātam jābūt vismaz 3 gadu pieredzei programmatūras izstrādē, jābūt zināšanām par datu struktūrām un algoritmiem, kā arī aizrautībai par programmēšanu.
 
-**Darba apraksts:**
-{{JD_TEXT}}
 
-**Kandidāta CV:**
-{{CV_TEXT}}
+Candidate CV:
+Alise Džonsona
+Pieredze:
 
-**Lūdzu, atbildi šādā JSON struktūrā:**
-{
-  "match_score": 0-100,
-  "summary": "Īss apraksts, cik labi CV atbilst JD.",
-  "strengths": [
-    "Galvenās prasmes/pieredze no CV, kas atbilst JD"
-  ],
-  "missing_requirements": [
-    "Svarīgas JD prasības, kas CV nav redzamas"
-  ],
-  "verdict": "strong match | possible match | not a match"
-}
+4 gadi pieredzes Python izstrādē un datu analīzē.
 
+Plaša pieredze ar AWS, Google Cloud un Docker.
+
+Stipra pieredze mašīnmācīšanās algoritmos un prognozēšanas modelēšanā.
+
+Izstrādāti un ieviesti mašīnmācīšanās modeļi ražošanā.
+
+Iepazīšanās ar datu struktūrām, algoritmiem un programmatūras inženierijas labākajām praksēm.
+
+Aizrautība par kodēšanu un jaunu tehnoloģiju apgūšanu.
