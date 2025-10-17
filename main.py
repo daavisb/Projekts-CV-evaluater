@@ -5,9 +5,9 @@ from pathlib import Path
 # Gemini klienta inicializācija (aizstāj ar savu metodi, ja lieto Google API)
 from google.generativeai import configure, GenerativeModel
 
-configure(api_key="TAVS_GEMINI_API_KEY")
+configure(api_key="AIzaSyCBmiCr75FFOQUOmdUgk2SAgvIEPTV87Qg")
 
-model = GenerativeModel("models/gemini-1.5-flash-latest")
+model = GenerativeModel("models/gemini-2.5-flash-latest")
 
 INPUT_DIR = Path("sample_inputs")
 OUTPUT_DIR = Path("outputs")
