@@ -1,1 +1,7 @@
-
+Alice Johnson
+Experience:
+- 3 years of experience in Python development and data analysis.
+- Extensive work with AWS, Google Cloud, and Docker.
+- Strong background in machine learning algorithms and predictive modeling.
+- Developed and deployed machine learning models into production.
+- Familiar with data structures, algorithms, and software engineering best practices.
