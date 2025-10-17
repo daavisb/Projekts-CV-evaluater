@@ -1,1 +1,2 @@
-smaple
+Darba apraksts:
+Mēs meklējam programmatūras inženieri ar ekspertīzi Python, mašīnmācīšanās un mākoņtehnoloģijās. Kandidātam jābūt vismaz 3 gadu pieredzei programmatūras izstrādē, jābūt zināšanām par datu struktūrām un algoritmiem, kā arī aizrautībai par programmēšanu.
