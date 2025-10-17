@@ -1,0 +1,12 @@
+Jānis Bērziņš
+Pieredze:
+
+2 gadi pieredzes Python izstrādē, galvenokārt strādājot pie datu analīzes un skriptu izstrādes.
+
+Zināšanas par mākoņtehnoloģijām (Google Cloud), tomēr bez praktiskas pieredzes ražošanā.
+
+Daži mašīnmācīšanās kursi un projekti, bet nav īstas pieredzes to ieviešanā.
+
+Iepazīšanās ar datu struktūrām un algoritmiem.
+
+Liela interese par programmatūras attīstību, bet nav minēta aizrautība.

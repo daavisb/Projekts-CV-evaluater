@@ -1,0 +1,10 @@
+Māris Kalniņš
+Pieredze:
+
+1 gads pieredzes Python izstrādē, galvenokārt veicot tīmekļa izstrādi un mazu projektu vadību.
+
+Nav pieredzes ar mākoņtehnoloģijām vai mašīnmācīšanās.
+
+Darbs ar SQL un datu bāzēm, bet nav pieredzes ar datu struktūrām vai algoritmiem.
+
+Liela interese par tīmekļa izstrādi, bet nav minēta aizrautība par kodēšanu.
